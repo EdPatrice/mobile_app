@@ -3,11 +3,9 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+`TODO://` I have created a personal application that has the ability to magically answer questions that appear when clicked on. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="https://github.com/EdPatrice/mobile_app/blob/f567b3497b3fd3c80c8057a87f174015bcca6098/Recordings/App%20Recording.gif" width=200><br>
 
 
